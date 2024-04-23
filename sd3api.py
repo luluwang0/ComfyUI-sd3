@@ -177,9 +177,9 @@ class SD3_deer:
 
 
 NODE_CLASS_MAPPINGS = {
-    "SD3_deer": SD3,
+    "SD3_deer": SD3_deer,
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "SD3_deer": "🔥Stable Diffusion 3",
+    "SD3_deer": "⭐Stable Diffusion 3",
 }
